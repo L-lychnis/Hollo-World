@@ -5,4 +5,4 @@ This is the hello file.
 
 Hello, everyone.
 
-That is GitHub
+That is GitHub.
